@@ -1,0 +1,23 @@
+{
+  "name": "desafio-api",
+  "version": "1.0.0",
+  "description": "API to movie notes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "dev": "nodemon ./src/server.js"
+  },
+  "keywords": [],
+  "author": "Ramon Lima",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.1",
+    "express-async-error": "^0.0.2",
+    "sqlite": "^4.1.2",
+    "sqlite3": "^5.0.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
