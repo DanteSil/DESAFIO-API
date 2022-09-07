@@ -2,8 +2,8 @@ const { Router } = require("express");
 
 const userRouter = require("./users.routes");
 const movieNotesRouter = require("./movieNotes.routes");
-const tagsRouter = require("./tags.routes")
-const sessionRoutes = require("./sessions.routes")
+const tagsRouter = require("./tags.routes");
+const sessionRoutes = require("./sessions.routes");
 
 const routes = Router();
 

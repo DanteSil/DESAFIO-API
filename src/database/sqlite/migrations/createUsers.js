@@ -10,4 +10,4 @@ const createUsers = `
 )
  `;
 
- module.exports = createUsers
+ module.exports = createUsers;

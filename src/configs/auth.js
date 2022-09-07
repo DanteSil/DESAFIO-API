@@ -3,4 +3,4 @@ module.exports = {
     secret: "defaut",
     expiresIn: "1d",
   }
-}
+};

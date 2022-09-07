@@ -21,8 +21,8 @@ class diskStorage {
      return 
     }
 
-    await fs.promises.unlink(filePath)
+    await fs.promises.unlink(filePath);
   }
 }
 
-module.exports = diskStorage
+module.exports = diskStorage;

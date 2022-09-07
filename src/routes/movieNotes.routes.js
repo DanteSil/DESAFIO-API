@@ -7,7 +7,7 @@ const notesRoutes = Router();
 
 const movieNotesController = new MovieNotesController();
 
-notesRoutes.use(ensureAuthenticated)
+notesRoutes.use(ensureAuthenticated);
 
 notesRoutes.post("/", movieNotesController.create);
 notesRoutes.get("/:id", movieNotesController.show);
