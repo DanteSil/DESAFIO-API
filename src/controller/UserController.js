@@ -2,7 +2,7 @@ const { compare, hash } = require("bcryptjs");
 const sqliteConnection = require("../database/sqlite");
 const AppError = require("../utils/AppError");
 
-class UsersController {
+class UserController {
   async create(request, response) {
     const { name, email, password} = request.body;
 
