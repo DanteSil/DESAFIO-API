@@ -2,10 +2,9 @@
 
 Projeto desafio do curso explore da RocketSeat. O projeto em si é uma aplicação onde o usuário pode registrar seus filmes favoritos. Para desenvolver essa API foi utilizado o NODE.JS 
 
- - Deploy via Heroku:
-<br> https://rocketmovies-api492.herokuapp.com
+ - Deploy via Heroku
 
-- Link do Frontend:
+- Link para o Frontend:
 <br> https://github.com/DanteSil/movieNotes-Front
 
 <br>
@@ -35,8 +34,7 @@ Projeto desafio do curso explore da RocketSeat. O projeto em si é uma aplicaç�
 
 RocketSeat's Explore Course Challenge Project. The project itself is an application where the user can register their favorite movies. To develop this API, NODE.JS was used
 
-  - Deploy by Heroku:
-<br> https://rocketmovies-api492.herokuapp.com
+  - Deploy by Heroku
 
 - Frontend link:
 <br> https://github.com/DanteSil/movieNotes-Front
